@@ -3,3 +3,8 @@ cat
 fish
 bird
 rabbit
+monty 
+mocha
+george the frog
+fighter fish
+more fish
